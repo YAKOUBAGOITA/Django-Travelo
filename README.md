@@ -1,1 +1,1 @@
-Travel Project
+Travel App Project
